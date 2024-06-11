@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1443.png",
+    "tokenId": 1443,
+    "name": "ADD_PROJECT_NAME_HERE 1443",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Eyes"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Green"
+        }
+    ]
+}

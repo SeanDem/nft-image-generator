@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE446.png",
+    "tokenId": 446,
+    "name": "ADD_PROJECT_NAME_HERE 446",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Green"
+        }
+    ]
+}

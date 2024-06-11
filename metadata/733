@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE733.png",
+    "tokenId": 733,
+    "name": "ADD_PROJECT_NAME_HERE 733",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Phase"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Red"
+        }
+    ]
+}

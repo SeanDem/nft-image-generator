@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE393.png",
+    "tokenId": 393,
+    "name": "ADD_PROJECT_NAME_HERE 393",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Dots"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "White"
+        }
+    ]
+}

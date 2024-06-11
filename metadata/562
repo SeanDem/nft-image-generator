@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE562.png",
+    "tokenId": 562,
+    "name": "ADD_PROJECT_NAME_HERE 562",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Stripe"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Green"
+        }
+    ]
+}

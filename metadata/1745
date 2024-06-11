@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1745.png",
+    "tokenId": 1745,
+    "name": "ADD_PROJECT_NAME_HERE 1745",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Side"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Navy"
+        }
+    ]
+}

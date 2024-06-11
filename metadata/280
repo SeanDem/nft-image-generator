@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE280.png",
+    "tokenId": 280,
+    "name": "ADD_PROJECT_NAME_HERE 280",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Green"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1346.png",
+    "tokenId": 1346,
+    "name": "ADD_PROJECT_NAME_HERE 1346",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Crescent"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Blue"
+        }
+    ]
+}

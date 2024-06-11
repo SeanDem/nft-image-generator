@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1720.png",
+    "tokenId": 1720,
+    "name": "ADD_PROJECT_NAME_HERE 1720",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Black"
+        }
+    ]
+}

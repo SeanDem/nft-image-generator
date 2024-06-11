@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE117.png",
+    "tokenId": 117,
+    "name": "ADD_PROJECT_NAME_HERE 117",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Random"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Orange"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE364.png",
+    "tokenId": 364,
+    "name": "ADD_PROJECT_NAME_HERE 364",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "None"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Yellow"
+        }
+    ]
+}

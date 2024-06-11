@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1196.png",
+    "tokenId": 1196,
+    "name": "ADD_PROJECT_NAME_HERE 1196",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Green"
+        }
+    ]
+}

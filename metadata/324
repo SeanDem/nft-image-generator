@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE324.png",
+    "tokenId": 324,
+    "name": "ADD_PROJECT_NAME_HERE 324",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Random"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Navy"
+        }
+    ]
+}

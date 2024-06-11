@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1479.png",
+    "tokenId": 1479,
+    "name": "ADD_PROJECT_NAME_HERE 1479",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Polka"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Blue"
+        }
+    ]
+}

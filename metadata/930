@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE930.png",
+    "tokenId": 930,
+    "name": "ADD_PROJECT_NAME_HERE 930",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Sea"
+        }
+    ]
+}

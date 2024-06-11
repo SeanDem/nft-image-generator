@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE472.png",
+    "tokenId": 472,
+    "name": "ADD_PROJECT_NAME_HERE 472",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Navy"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Lime"
+        }
+    ]
+}

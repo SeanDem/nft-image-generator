@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1863.png",
+    "tokenId": 1863,
+    "name": "ADD_PROJECT_NAME_HERE 1863",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Black"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Dots"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Gold"
+        }
+    ]
+}

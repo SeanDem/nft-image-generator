@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE323.png",
+    "tokenId": 323,
+    "name": "ADD_PROJECT_NAME_HERE 323",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Half"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Sea"
+        }
+    ]
+}

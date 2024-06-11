@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE648.png",
+    "tokenId": 648,
+    "name": "ADD_PROJECT_NAME_HERE 648",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Fade"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Orange"
+        }
+    ]
+}

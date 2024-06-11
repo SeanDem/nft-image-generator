@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1861.png",
+    "tokenId": 1861,
+    "name": "ADD_PROJECT_NAME_HERE 1861",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Polka"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Sea"
+        }
+    ]
+}

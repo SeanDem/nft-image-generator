@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE860.png",
+    "tokenId": 860,
+    "name": "ADD_PROJECT_NAME_HERE 860",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "White"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Navy"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Polka"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Blue"
+        }
+    ]
+}

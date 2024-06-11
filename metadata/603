@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE603.png",
+    "tokenId": 603,
+    "name": "ADD_PROJECT_NAME_HERE 603",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Sea"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Dots"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Lime"
+        }
+    ]
+}

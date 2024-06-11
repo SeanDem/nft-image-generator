@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1805.png",
+    "tokenId": 1805,
+    "name": "ADD_PROJECT_NAME_HERE 1805",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Void"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Lime"
+        }
+    ]
+}

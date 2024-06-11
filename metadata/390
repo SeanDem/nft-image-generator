@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE390.png",
+    "tokenId": 390,
+    "name": "ADD_PROJECT_NAME_HERE 390",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Stripe"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Orange"
+        }
+    ]
+}

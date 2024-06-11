@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE901.png",
+    "tokenId": 901,
+    "name": "ADD_PROJECT_NAME_HERE 901",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ape"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Whale"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Black"
+        }
+    ]
+}

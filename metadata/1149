@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1149.png",
+    "tokenId": 1149,
+    "name": "ADD_PROJECT_NAME_HERE 1149",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Lime"
+        },
+        {
+            "trait_type": "Design",
+            "value": "None"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "None"
+        }
+    ]
+}

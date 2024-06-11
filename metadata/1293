@@ -1,0 +1,27 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE1293.png",
+    "tokenId": 1293,
+    "name": "ADD_PROJECT_NAME_HERE 1293",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Base",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Blue"
+        },
+        {
+            "trait_type": "Design",
+            "value": "Polka"
+        },
+        {
+            "trait_type": "Design Color",
+            "value": "Navy"
+        }
+    ]
+}
